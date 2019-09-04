@@ -1,5 +1,5 @@
 def create_an_empty_array
-  my_array = []
+  []
 end
 
 def create_an_array
@@ -7,7 +7,7 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  my_array = []
+  array = [red, blue]
 end
 
 def add_element_to_start_of_array(array, element)
